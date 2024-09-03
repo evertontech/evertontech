@@ -20,4 +20,4 @@
 <h3 align="left">Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evertontech&show_icons=true&layout=compact&theme=radical" alt="evertontech" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evertontech&show_icons=true&theme=radical" alt="evertontech" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evertontech&show_icons=true&theme=radical&rank_icon=github" alt="evertontech" /></p>
